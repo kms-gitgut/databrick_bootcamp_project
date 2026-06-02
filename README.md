@@ -58,9 +58,9 @@ I’m an BI & Analytics consultant, to learn more about my work related topics, 
 ---
 ## Credits
 
-The entire project was posible thanks to **Baraa Khatib Salkini** and his SQL course. 
+The entire project was posible thanks to **Baraa Khatib Salkini** and his DataBricsk Bootcamp. 
 
-Click the icon to go to the entire course:
+Important links:
 
 - 🧭 Notion Roadmap: [Open guide](https://candle-gosling-511.notion.site/Project-Building-the-Bike-Data-Lakehouse-2e734b251f1280ab8dadc269e033cc38?source=copy_link)
 - ▶️ Databricks Bootcamp: [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9)
