@@ -6,19 +6,6 @@ This repository contains a complete, real-world **Data Lakehouse implementation*
 
 ---
 
-## ⚠️ Important Note
-
-Build this project **on your own first** using the **Notion roadmap**.  
-Use this repository **only as a reference** if you get stuck.
-
-Before starting, **watch the Databricks Bootcamp**, where I explain the architecture and decisions behind this project.
-
-- 🧭 Notion Roadmap: [Open guide](https://candle-gosling-511.notion.site/Project-Building-the-Bike-Data-Lakehouse-2e734b251f1280ab8dadc269e033cc38?source=copy_link)
-- ▶️ Databricks Bootcamp: [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9)
-- 🎉 Finished? Share it on [LinkedIn](https://www.linkedin.com/in/baraa-khatib-salkini/). Let’s celebrate
-
----
-
 ## 🏗️ Architecture
 
 This project follows the **Medallion Architecture**:
@@ -75,8 +62,8 @@ The entire project was posible thanks to **Baraa Khatib Salkini** and his SQL co
 
 Click the icon to go to the entire course:
 
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?srsltid=AfmBOorleTtX0rLNCOOC8A-G-yViZEsCJBbr2pi0ho2FgIPUUJOOgmzz)
-
+- 🧭 Notion Roadmap: [Open guide](https://candle-gosling-511.notion.site/Project-Building-the-Bike-Data-Lakehouse-2e734b251f1280ab8dadc269e033cc38?source=copy_link)
+- ▶️ Databricks Bootcamp: [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9)
 
 **Baraa** is an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging.
 
