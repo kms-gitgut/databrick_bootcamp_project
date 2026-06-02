@@ -33,7 +33,6 @@ This project follows the **Medallion Architecture**:
 - Delta Lake  
 - Unity Catalog  
 
-
 ---
 
 ## Prerequisites
@@ -58,7 +57,7 @@ I’m an BI & Analytics consultant, to learn more about my work related topics, 
 ---
 ## Credits
 
-The entire project was posible thanks to **Baraa Khatib Salkini** and his DataBricsk Bootcamp. 
+The entire project was posible thanks to **Baraa Khatib Salkini** and his DataBricks Bootcamp. 
 
 Important links:
 
